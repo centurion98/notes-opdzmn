@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://centurion98.github.io/notes-opdzmn/sitemap.xml
